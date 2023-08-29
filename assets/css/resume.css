@@ -53,14 +53,17 @@ body{
 
 .resume_wrapper .resume_left .resume_info i {
     margin-right: 15px
+
 }
 
+
+
 .resume_wrapper .resume_left .resume_bottom{
-	padding: 20px 30px;
+	padding: 15px 30px;
 }
 
 .resume_wrapper .resume_item{
-	padding: 20px 0;
+	padding: 5px 0;
 	border-bottom: 1px solid #0175b2;
 }
 
@@ -92,12 +95,13 @@ body{
 }
 
 .resume_wrapper .resume_left .resume_skills .resume_subinfo{
+	margin-bottom: 10px;
 	margin-left: 15px
 }
 
 .resume_wrapper .resume_right{
 	width: 65%;
-	padding: 20px 40px;
+	padding: 15px 40px;
 	color: #26252d;
 }
 
@@ -130,7 +134,7 @@ body{
 
 .resume_wrapper .resume_right .resume_data .content{
 	padding-left: 35px;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 	width: calc(100% - 115px);
 }
 
@@ -221,7 +225,7 @@ body{
 @media screen and (max-width: 424px){
 	.resume_wrapper .resume_right{
         
-		padding: 20px 30px;
+		padding: 10px 30px;
 	}
 
     .resume_wrapper .resume_right .resume_experience .resume_title {
